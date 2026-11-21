@@ -1,0 +1,6 @@
+{
+  "compare_since": null,
+  "max_credits_per_card": 25,
+  "min_balance": 25,
+  "output_dir": "video-reports"
+}
